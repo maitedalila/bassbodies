@@ -119,6 +119,14 @@ h2.dark {
   color: #E70F8E;
 }
 
+.header-white {
+  font-family: 'Baloo Bhaina', sans-serif !important;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  text-align: center;
+  color: #fff;
+}
+
 h3 {
   font-family: 'Baloo Bhaina', sans-serif !important;
   font-size: 1.7em;
@@ -448,7 +456,7 @@ a {
 footer{
   background: #00050B;
   text-align: center;
-  padding: 5em 0;
+  padding: auto;
   line-height: 2.5;
 }
 
