@@ -36,7 +36,7 @@ nav a{
     padding: 1em;
 }
 
-hr { 
+hr {
     display: block;
     border-top: 4px solid #000;
     margin:2em auto;
@@ -47,7 +47,7 @@ hr {
   width: 11em;
   float: left;
 }
- 
+
 .tagline{
     background: url("../images/hero.gif");
     background-size: cover;
@@ -57,7 +57,7 @@ hr {
     padding: 18em 0 11em;
 }
 
- 
+
 .tagline-about{
     background: url("../images/hero3.gif");
     background-size: cover;
@@ -93,11 +93,11 @@ body {
 }
 
 h1 {
-  font-family: 'Open sans', serif !important;
-  font-size: 2.5em;
+  font-family: 'Baloo Bhaina', serif !important;
+  font-size: 3.5em;
   text-transform: uppercase;
   color: #fff;
-  margin-bottom: .5em;
+  /*margin-bottom: .5em;*/
 }
 
 h1.dark {
@@ -105,14 +105,14 @@ h1.dark {
 }
 
 h2.dark {
-  font-family: 'Open sans', sans-serif !important;
+  font-family: 'Baloo Bhaina', sans-serif !important;
   font-size: 2em;
   text-transform: uppercase;
   color: #222;
 }
 
 .header-black {
-  font-family: 'Open sans', sans-serif !important;
+  font-family: 'Baloo Bhaina', sans-serif !important;
   font-size: 2em;
   text-transform: uppercase;
   text-align: center;
@@ -120,14 +120,14 @@ h2.dark {
 }
 
 h3 {
-  font-family: 'Open sans', sans-serif !important;
+  font-family: 'Baloo Bhaina', sans-serif !important;
   font-size: 1.7em;
   text-transform: uppercase;
   color: #CFCFCF;
 }
 
 h4 {
-  font-family: 'Open sans', sans-serif !important;
+  font-family: 'Baloo Bhaina', sans-serif !important;
   font-size: 1.2em;
   letter-spacing: 4px;
   text-transform: uppercase;
@@ -170,7 +170,7 @@ a {
 
 
 .button {
-    background-color: #E70F8E; 
+    background-color: #E70F8E;
     opacity: 20%;
     color: #FFF;
     border-radius: 25px;
@@ -229,7 +229,7 @@ a {
   background: #E70F8E;
   color: #4CBDC6;
   text-align: left;
-  padding: 1em 2em;  
+  padding: 1em 2em;
 }
 
 #social-media h4 {
@@ -272,7 +272,7 @@ a {
   background: #E70F8E;
   color: #FFF;
   text-align: center;
-  padding: 1.2em 2em;  
+  padding: 1.2em 2em;
 }
 
 .company-link {
@@ -355,7 +355,6 @@ a {
   text-align: center;
   font-size: 1em;
   margin-top: 2em;
-  color: #CFCFCF;
 }
 
 .service p {
