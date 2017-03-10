@@ -54,7 +54,7 @@ hr {
     background-position: center 5%;
     background-repeat: no-repeat;
     text-align: center;
-    padding: 18em 0 11em;
+    padding: 15em 0 11em;
 }
 
 
@@ -64,7 +64,7 @@ hr {
     background-position: center 5%;
     background-repeat: no-repeat;
     text-align: center;
-    padding: 10em 0 7em;
+    padding: 9em 0 7em;
 }
 
 
@@ -94,10 +94,10 @@ body {
 
 h1 {
   font-family: 'Baloo Bhaina', serif !important;
-  font-size: 3.5em;
+  font-size: 2.9em;
   text-transform: uppercase;
   color: #fff;
-  /*margin-bottom: .5em;*/
+  margin-bottom: auto;
 }
 
 h1.dark {
@@ -116,7 +116,7 @@ h2.dark {
   font-size: 2em;
   text-transform: uppercase;
   text-align: center;
-  color: #222;
+  color: #E70F8E;
 }
 
 h3 {
@@ -146,7 +146,7 @@ p {
 
 .p-white {
   font-family: 'Open sans', sans-serif !important;
-  font-size: 1.1em;
+  font-size: 1.3em;
   font-weight: normal;
   line-height: 1.7em;
   margin: auto;
